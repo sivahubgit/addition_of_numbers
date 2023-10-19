@@ -1,0 +1,19 @@
+{
+  "name": "@_sivakumar_npm/addition_of_numbers",
+  "version": "1.0.0",
+  "description": "Add 2 numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sivahubgit/addition_of_numbers.git"
+  },
+  "author": "Sivakumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sivahubgit/addition_of_numbers/issues"
+  },
+  "homepage": "https://github.com/sivahubgit/addition_of_numbers#readme"
+}
